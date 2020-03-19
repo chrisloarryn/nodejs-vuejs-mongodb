@@ -17,6 +17,14 @@ install axios vue-router vue-axios: `npm install axios vue-router vue-axios --sa
 install bootstrap `npm install bootstrap --save`.
 install Vuetify (`material framework`) => `https://vuetifyjs.com/en/getting-started/quick-start/`.
 
+## testing routes
+
+Save the file and check the following route paths to see if we are getting the exact routes.
+
+http://localhost:8080/create
+http://localhost:8080/posts
+http://localhost:8080/edit/21
+
 ## Develop Env.
 to run locally: `npm run serve`. (`vue-cli-service serve` but the script is the first one.)
 
