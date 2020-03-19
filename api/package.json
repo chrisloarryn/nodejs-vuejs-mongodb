@@ -1,12 +1,22 @@
 {
-  "name": "api",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "name": "api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "cors": "^2.8.5",
+        "mongoose": "^5.9.5",
+        "moment": "^2.24.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
 }
