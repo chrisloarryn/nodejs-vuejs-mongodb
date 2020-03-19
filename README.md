@@ -22,7 +22,7 @@ This project makes use of a logging utility I created called [trunks](https://gi
 
 To install this project simply clone or download the repo:
 
-`git clone https://github.com/aturingmachine/mevn-stack.git <dir name>`
+`git clone https://github.com/chrisloarryn/nodejs-vuejs-mongodb.git <dir name>`
 
 `cd <dir name>`
 
