@@ -1,6 +1,6 @@
 Application MEVN Stack
 
-Intructions:
+Instructions:
 
 ## make sure that the version 12 of nodejs is up-to-date.
 
