@@ -9,6 +9,6 @@ node version ^12
 install VueJs Cli: `npm install -g @vue/cli` if u need u could use sudo. (made at `@vue/cli 4.2.3 version`)
 
 ## Develop Env.
-to run locally: `npm run serve`.
+to run locally: `npm run serve`. (`vue-cli-service serve` but the script is the first one.)
 
 changes in crisBranch
